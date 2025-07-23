@@ -16,3 +16,5 @@ import myModule from './myModule.js';
 // import css:
 import './styles.css';
 */
+
+console.log("[Webpack Template] Init succesful.")
